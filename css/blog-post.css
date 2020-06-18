@@ -6,3 +6,12 @@
 body {
   padding-top: 56px;
 }
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+.img-thumbnail{
+  height:200px!important;
+}
